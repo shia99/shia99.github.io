@@ -1,0 +1,460 @@
+Configuration file: /app/_config.yml
+            Source: /app
+       Destination: /app/_site
+ Incremental build: disabled. Enable with --incremental
+      Generating...
+       Jekyll Feed: Generating feed for posts
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+   ╷
+40 │   margin-bottom: $spacing-unit / 2;
+   │                  ^^^^^^^^^^^^^^^^^
+   ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 40:18  @import
+    minima.scss 48:3                                        @import
+    /app/assets/main.scss 1:9                               root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+134 │   padding-left: $spacing-unit / 2;
+    │                 ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 134:17  @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+189 │     padding-right: $spacing-unit / 2;
+    │                    ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 189:20  @content
+    minima.scss 38:5                                         media-query()
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 186:3   @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+190 │     padding-left: $spacing-unit / 2;
+    │                   ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 190:19  @content
+    minima.scss 38:5                                         media-query()
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 186:3   @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 3) or calc($spacing-unit / 3)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+244 │     padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    │               ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 244:15  @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+WARNING: 6 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    done in 0.098 seconds.
+ Auto-regeneration: enabled for '/app'
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
+      Regenerating: 1 file(s) changed at 2025-07-30 23:22:25
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for posts
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+   ╷
+40 │   margin-bottom: $spacing-unit / 2;
+   │                  ^^^^^^^^^^^^^^^^^
+   ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 40:18  @import
+    minima.scss 48:3                                        @import
+    /app/assets/main.scss 1:9                               root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+134 │   padding-left: $spacing-unit / 2;
+    │                 ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 134:17  @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+189 │     padding-right: $spacing-unit / 2;
+    │                    ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 189:20  @content
+    minima.scss 38:5                                         media-query()
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 186:3   @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+190 │     padding-left: $spacing-unit / 2;
+    │                   ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 190:19  @content
+    minima.scss 38:5                                         media-query()
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 186:3   @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 3) or calc($spacing-unit / 3)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+244 │     padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    │               ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 244:15  @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+WARNING: 6 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.086297437 seconds.
+
+      Regenerating: 1 file(s) changed at 2025-07-30 23:22:25
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for posts
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+   ╷
+40 │   margin-bottom: $spacing-unit / 2;
+   │                  ^^^^^^^^^^^^^^^^^
+   ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 40:18  @import
+    minima.scss 48:3                                        @import
+    /app/assets/main.scss 1:9                               root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+134 │   padding-left: $spacing-unit / 2;
+    │                 ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 134:17  @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+189 │     padding-right: $spacing-unit / 2;
+    │                    ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 189:20  @content
+    minima.scss 38:5                                         media-query()
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 186:3   @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+190 │     padding-left: $spacing-unit / 2;
+    │                   ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 190:19  @content
+    minima.scss 38:5                                         media-query()
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 186:3   @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 3) or calc($spacing-unit / 3)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+244 │     padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    │               ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 244:15  @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+WARNING: 6 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.040748989 seconds.
+
+      Regenerating: 1 file(s) changed at 2025-07-30 23:22:25
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for posts
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+   ╷
+40 │   margin-bottom: $spacing-unit / 2;
+   │                  ^^^^^^^^^^^^^^^^^
+   ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 40:18  @import
+    minima.scss 48:3                                        @import
+    /app/assets/main.scss 1:9                               root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+134 │   padding-left: $spacing-unit / 2;
+    │                 ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 134:17  @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+189 │     padding-right: $spacing-unit / 2;
+    │                    ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 189:20  @content
+    minima.scss 38:5                                         media-query()
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 186:3   @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+190 │     padding-left: $spacing-unit / 2;
+    │                   ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 190:19  @content
+    minima.scss 38:5                                         media-query()
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 186:3   @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 3) or calc($spacing-unit / 3)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+244 │     padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    │               ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 244:15  @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+WARNING: 6 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.042561835 seconds.
+
+      Regenerating: 1 file(s) changed at 2025-07-30 23:22:25
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for posts
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+   ╷
+40 │   margin-bottom: $spacing-unit / 2;
+   │                  ^^^^^^^^^^^^^^^^^
+   ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 40:18  @import
+    minima.scss 48:3                                        @import
+    /app/assets/main.scss 1:9                               root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+134 │   padding-left: $spacing-unit / 2;
+    │                 ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 134:17  @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+189 │     padding-right: $spacing-unit / 2;
+    │                    ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 189:20  @content
+    minima.scss 38:5                                         media-query()
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 186:3   @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+190 │     padding-left: $spacing-unit / 2;
+    │                   ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 190:19  @content
+    minima.scss 38:5                                         media-query()
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 186:3   @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 3) or calc($spacing-unit / 3)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+244 │     padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    │               ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 244:15  @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+WARNING: 6 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.042120453 seconds.
+
+      Regenerating: 1 file(s) changed at 2025-07-30 23:22:25
+                    jekyll_output.log
+       Jekyll Feed: Generating feed for posts
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+   ╷
+40 │   margin-bottom: $spacing-unit / 2;
+   │                  ^^^^^^^^^^^^^^^^^
+   ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 40:18  @import
+    minima.scss 48:3                                        @import
+    /app/assets/main.scss 1:9                               root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+189 │     padding-right: $spacing-unit / 2;
+    │                    ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 189:20  @content
+    minima.scss 38:5                                         media-query()
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 186:3   @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+134 │   padding-left: $spacing-unit / 2;
+    │                 ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 134:17  @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 2) or calc($spacing-unit / 2)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+190 │     padding-left: $spacing-unit / 2;
+    │                   ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 190:19  @content
+    minima.scss 38:5                                         media-query()
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 186:3   @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+DEPRECATION WARNING: Using / for division outside of calc() is deprecated and will be removed in Dart Sass 2.0.0.
+
+Recommendation: math.div($spacing-unit, 3) or calc($spacing-unit / 3)
+
+More info and automated migrator: https://sass-lang.com/d/slash-div
+
+    ╷
+244 │     padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    │               ^^^^^^^^^^^^^^^^^
+    ╵
+    ../../../../minima-2.5.1/_sass/minima/_base.scss 244:15  @import
+    minima.scss 48:3                                         @import
+    /app/assets/main.scss 1:9                                root stylesheet
+WARNING: 6 repetitive deprecation warnings omitted.
+Run in verbose mode to see all warnings.
+                    ...done in 0.04083429 seconds.
